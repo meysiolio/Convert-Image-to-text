@@ -1,5 +1,5 @@
 ## Task
-We want to convert a **.jpg** file to a text file with triple comma-separated values of RGB, where these triples are separated by one space. For example:  
+We want to convert an image, like a  **.jpg** file to a text file with triple comma-separated values of RGB, where these triples are separated by one space. For example:  
 ```
 0,0,200 0,0,10 10,0,0
 90,90,50 90,90,10 255,255,255
